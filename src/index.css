@@ -1,0 +1,15 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Fira+Sans:ital,wght@1,700;1,900&family=Kablammo&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+*{
+    font-family: 'Fira Sans', sans-serif;
+   
+}
+.mainlogo{
+    font-family: 'Kablammo', cursive;
+    font-size: 3rem;
+    color: rgb(238, 209, 42);
+}
